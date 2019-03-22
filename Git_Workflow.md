@@ -9,7 +9,7 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 
 ![Local file control](img/local_version_control.png)
 
-![Centralized Version Control](central_version_control.png)
+![Centralized Version Control](img/central_version_control.png)
 
 ![Distributed Version Control](img/distributed_version_control.png)
 
