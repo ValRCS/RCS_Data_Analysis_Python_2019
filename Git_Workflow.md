@@ -7,7 +7,7 @@ Distributed Version Control System - All Repositories are equal even your local 
 
 From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d438
 
-![Local file control](https://cdn-images-1.medium.com/max/1200/1*KUuC4FVTcnsGcP-1Ue7egA.png)
+![Local file control](img/local_version_control.png)
 
 ![Centralized Version Control](https://cdn-images-1.medium.com/max/1200/1*DNiSAdAVsJza8mz5kyHq1Q.png)
 
