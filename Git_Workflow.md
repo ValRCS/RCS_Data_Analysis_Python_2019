@@ -2,7 +2,8 @@
 
 Distributed Version Control System - All Repositories are equal even your local one!
 
-https://www.atlassian.com/git/tutorials/what-is-git
+* https://www.atlassian.com/git/tutorials/what-is-git
+* https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
 
 ## Install Git locally
