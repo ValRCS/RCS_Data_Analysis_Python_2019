@@ -9,9 +9,9 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 
 ![Local file control](img/local_version_control.png)
 
-![Centralized Version Control](https://cdn-images-1.medium.com/max/1200/1*DNiSAdAVsJza8mz5kyHq1Q.png)
+![Centralized Version Control](central_version_control.png)
 
-![Distributet Version Control](https://cdn-images-1.medium.com/max/1200/1*kqa1CgrWRoYNefdqevACow.png)
+![Distributed Version Control](img/distributed_version_control.png)
 
 
 ## Install Git locally
