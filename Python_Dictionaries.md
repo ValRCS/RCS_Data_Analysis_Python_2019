@@ -11,7 +11,7 @@ Idiom for looping(iterating) over them
 
 ```python
 for key, value in mydict:
-    print(f"Key {key} gives value {value}
+    print(f"Key {key} gives value {value}")
 ```
 
 Note: in Python 3.7 dictionaries are insertion ordered (https://stackoverflow.com/questions/39980323/are-dictionaries-ordered-in-python-3-6?rq=1)
