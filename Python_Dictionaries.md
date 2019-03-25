@@ -7,6 +7,8 @@ mydict = {"myname" : "Valdis", "likes" : "potatoes", "cleans" : "potatoes"}
 * keys must be unique for the dictionary!
 * values for different keys can be matching
 
+![Dictionary](http://www.trytoprogram.com/images/python_dictionary.jpg)
+
 Idiom for looping(iterating) over them
 
 ```python
