@@ -7,3 +7,5 @@
 * https://realpython.com/python-sets/
 
 ![Sets](https://www.wikitechy.com/tutorials/python/img/python-images/sets.png)
+
+* http://buildingskills.itmaybeahack.com/book/python-2.6/html/p02/p02c06_sets.html
