@@ -24,3 +24,13 @@ What to do when no errors appear but code does not work properly?
 
 * https://realpython.com/python-debugging-pdb/
 * https://medium.freecodecamp.org/debugging-with-pycharm-be282bcd6172
+
+
+# When all else fails - Rubber Duck Debugging
+
+* https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
+![Duck](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rubber_duck_assisting_with_debugging.jpg/330px-Rubber_duck_assisting_with_debugging.jpg)
+
+* Explain the problem like you would to your mother-in-law or rubber duck!
+* Restate Your Assumptions!
