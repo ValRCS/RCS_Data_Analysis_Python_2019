@@ -23,3 +23,7 @@ Javascript Object Notation - could be called Universal Object Notation these day
 ### Reading from the web via requests
 
 * http://docs.python-requests.org/en/master/
+
+## Big list of public JSON APIs
+
+* https://github.com/toddmotto/public-apis
