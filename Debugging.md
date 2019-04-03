@@ -5,6 +5,7 @@
 * Runtime Errors
 
 https://www.cs.bu.edu/courses/cs108/guides/debug.html
+https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/2%3A_Variables%2C_Expressions%2C_and_Statements/2.13%3A_Debugging
 
 # Logical errors
 What to do when no errors appear but code does not work properly?
