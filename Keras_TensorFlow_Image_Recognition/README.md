@@ -27,6 +27,6 @@ https://keras.io/#getting-started-30-seconds-to-keras
 
 
 Google Colab - for hosted notebooks
-http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python
+http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_2019
 
-http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python/blob/master/TensorFlow_Keras/keras_image_recognition_classifier.ipynb
+http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_2019/blob/master/TensorFlow_Keras/keras_image_recognition_classifier_n_class.ipynb
