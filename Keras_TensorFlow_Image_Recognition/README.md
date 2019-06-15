@@ -21,6 +21,7 @@ https://www.tensorflow.org/
 
 ## Keras higher level API that can control TensorFlow
 https://keras.io/
+![Keras](https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png)
 
 It is practical to use tf.keras unless you want the pain of reading TensorFlow documentation...
 
